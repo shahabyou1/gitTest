@@ -1,5 +1,3 @@
-Navigation
-
 Suggested team workflow
 Restore from previous commit
 Delete files from Git repository
